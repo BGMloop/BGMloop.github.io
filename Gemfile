@@ -2,4 +2,5 @@
 
 source "https://rubygems.org"
 
-gemspec
+gem "jekyll", "~> 4.0" # Jekyll version
+gem "jekyll-theme-hacker" # The theme I'm using
