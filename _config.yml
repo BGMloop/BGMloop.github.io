@@ -1,8 +1,11 @@
-title: Hacker theme
-description: Hacker is a theme for GitHub Pages.
+title: "Bwalya Maele Cybersecurity Portfolio"
+description: "Portfolio showcasing Bwalya Maele's 
+ Cybersecurity Projects and Certifications,
+ using Hacker is a theme for GitHub Pages."
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
 
 remote_theme: pages-themes/hacker@v0.2.0
 
+url: "https://https://bgmloop.github.io"  # Actual GitHub Pages URL
