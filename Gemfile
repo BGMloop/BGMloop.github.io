@@ -2,5 +2,6 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0" # Jekyll version
+gem 'github-pages'
+gem "jekyll", "~> 3.8.6" # Jekyll version
 gem "jekyll-theme-hacker" # The theme I'm using
