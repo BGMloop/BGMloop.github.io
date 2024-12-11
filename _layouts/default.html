@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">  <!-- theme's CSS-->
+</head>
+<body>
+
+<header>
+  <h1>{{ site.title }}</h1>  <!-- Site title defined in _config.yml -->
+  <nav>
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#certifications">Certifications</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+  {{ content }}  <!-- This injects content from the current page (index.html) -->
+</main>
+
+<footer>
+  <p>Powered by Jekyll & jekyll-theme-hacker</p>
+</footer>
+
+</body>
+</html>
