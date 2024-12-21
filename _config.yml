@@ -1,13 +1,8 @@
+url: "https://https://bgmloop.github.io"  # Actual GitHub Pages URL
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "Bwalya Maele Cybersecurity Portfolio"
 description: "Portfolio showcasing Bwalya Maele's 
  Cybersecurity Projects and Certifications,
  using Hacker is a theme for GitHub Pages."
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-hacker
-
-remote_theme: pages-themes/hacker@v0.2.0
-
-
-baseurl: "/blogjekyll" # the subpath of your site, e.g. /blog
-url: "https://https://bgmloop.github.io"  # Actual GitHub Pages URL
