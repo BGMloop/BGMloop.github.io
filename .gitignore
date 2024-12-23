@@ -1,2 +1,7 @@
 Gemfile.lock
 .bundle
+.jekyll-cache
+vendor/bundle/ruby/3.2.0
+vendor
+ruby
+.ruby-version
