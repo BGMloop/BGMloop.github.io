@@ -58,11 +58,12 @@ main {
 
 /* Table Styles */
 table {
-    padding-top: 12px;
+  padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
   background-color: #00FF00;/* Green border for tables */
   color: white; 
+  margin: 0 auto;  /* center the tables */
 }
 
 th, td {
